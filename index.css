@@ -1,0 +1,32 @@
+#Logo1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+html{
+    filter:blur(50px);
+    background-image:url("Picture/Background.png");
+}
+#menubutton{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:pink;
+    border:none;
+    color:white;
+    padding:50px 150px;
+    text-align: left;
+
+}
+h1{
+    text-align: center;
+    border:none;
+    color:pink;
+    font: italic 1.2em "Fira Sans", serif;
+}
+h2{
+    text-align: center;
+    border:none;
+    color:rgb(153, 23, 45);
+    font: italic 1.2em "Fira Sans", serif;
+}
