@@ -5,7 +5,7 @@
 }
 html{
     filter:blur(50px);
-    background-image:url("Picture/Background.png");
+    background-image:url("Picture/gakkoowari.gif");
 }
 #menubutton{
     display: block;
