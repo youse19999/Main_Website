@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var logoblur = 15;
 var blurchangespeed = 25
 function changeblurlogo(blurpx){
