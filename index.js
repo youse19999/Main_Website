@@ -44,6 +44,7 @@ function GoGithub(){
     if(res == true){
         document.location = "https://modthesims.info/member.php?u=10264439";
     }
+}
 var logoblur = 15;
 var blurchangespeed = 25
 function changeblurlogo(blurpx){
