@@ -83,6 +83,6 @@ function GoModTheSims(){
 function GoGithub(){
     var res = confirm("外部サイトに移動していいですか？");
     if(res == true){
-        document.location = "https://modthesims.info/member.php?u=10264439";
+        document.location = "https://github.com/youse19999";
     }
 }
