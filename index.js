@@ -13,7 +13,10 @@ function HSite(){
 	document.location = "HHH.html";
 }
 function GoWallpaper(){
-	document.location = "Wallpaper.html"
+	document.location = "Wallpaper.html";
+}
+function GoWork(){
+    document.location = "Work.html";
 }
 function play(){
     playlogoblur();

@@ -30,3 +30,14 @@ h2{
     color:rgb(153, 23, 45);
     font: italic 1.2em "Fira Sans", serif;
 }
+li{
+    text-align: center;
+    border:none;
+    color:rgb(153, 23, 45);
+    font: italic 1.0em "Fira Sans";
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
